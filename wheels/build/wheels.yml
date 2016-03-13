@@ -16,6 +16,8 @@ packages:
         insert_setuptools: true
     numpy:
         version: 1.9.2
+    biopython:
+        version: 1.66
     psycopg2:
         version: 2.6.1
         src:
