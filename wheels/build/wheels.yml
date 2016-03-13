@@ -18,6 +18,7 @@ packages:
         version: 1.9.2
     biopython:
         version: 1.66
+        insert_setuptools: true
     psycopg2:
         version: 2.6.1
         src:
